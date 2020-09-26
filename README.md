@@ -12,6 +12,5 @@ In this stage, a programmed baseband digital modulator is simulated that uses a 
 
 # How to run
 
+Download or clone de rep, go into the src folder and run the main.m file
 
-
-# 
