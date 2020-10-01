@@ -14,3 +14,6 @@ In this stage, a programmed baseband digital modulator is simulated that uses a 
 
 Download or clone de rep, go into the src folder and run the main.m file
 
+# Paths
+
+Maybe you will need to copy and paste de functions .m into your MATLAB default path to run without Errors.
